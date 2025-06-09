@@ -1,4 +1,4 @@
-  let count = 0;
+  let count = 10;
         
         function increment() {
             count+=10;
