@@ -1,7 +1,7 @@
   let count = 0;
         
         function increment() {
-            count++;
+            count+=10;
             document.getElementById('count').innerText = count;
         }
         
